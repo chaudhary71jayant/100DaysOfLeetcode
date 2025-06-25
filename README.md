@@ -1,3 +1,9 @@
-# Logic-building-and-Problem-solving
+#This is the start of 100days on leetcode 
 
-It is a repository where i will post a file each day when i will solve an easy problem. The motive of this repository is to maintain consistency and improve or create my logic building and problem solving skills.
+Day 1 : 
+
+    => Today we are starting with a leetcode medium and a leetcode easy question
+
+    1. [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
+
+    2. [Running sum of 1D array](https://leetcode.com/problems/running-sum-of-1d-array/)

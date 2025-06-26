@@ -7,3 +7,7 @@ Day 1 :
     1. [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
 
     2. [Running sum of 1D array](https://leetcode.com/problems/running-sum-of-1d-array/)
+
+Day 2 : 
+
+    => [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)

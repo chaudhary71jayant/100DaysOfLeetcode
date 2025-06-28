@@ -1,3 +1,7 @@
+//Day 3 => KOko eating bananas
+
+//https://leetcode.com/problems/koko-eating-bananas/
+
 public class KokoEatingBanana {
     public static void main(String[] args) {
         int[] piles = {3,6,7,11};

@@ -11,3 +11,13 @@ Day 1 :
 Day 2 : 
 
     => [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
+
+
+Day 3 : 
+
+    => [Koko ate bananas](https://leetcode.com/problems/koko-eating-bananas/)
+
+Day 4 : 
+
+    =>[concatanation of array](https://leetcode.com/problems/concatenation-of-array/)
+    =>

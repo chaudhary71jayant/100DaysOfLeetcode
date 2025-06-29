@@ -21,3 +21,7 @@ Day 4 :
 
     =>[concatanation of array](https://leetcode.com/problems/concatenation-of-array/)
     =>[Find the smalles sum given a threshold](https://leetcode.com/problems/find-the-smallest-sum-given-a-threshold/)
+
+Day 5 : 
+
+    =>[Split the array](https://leetcode.com/problems/split-the-array/)

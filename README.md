@@ -26,3 +26,7 @@ Day 5 :
 
     =>[Split the array](https://leetcode.com/problems/split-the-array/)
     =>[Minimum number of days to make m bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)
+
+Day 6 : 
+
+    =>[Rotate Array](https://leetcode.com/problems/rotate-array/)

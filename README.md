@@ -30,3 +30,8 @@ Day 5 :
 Day 6 : 
 
     =>[Rotate Array](https://leetcode.com/problems/rotate-array/)
+
+
+Day 7 : 
+
+    =>[Find the original typed String](https://leetcode.com/problems/find-the-original-typed-string-i/) This was the problem of the day for 1 July 2025

@@ -40,3 +40,4 @@ Day 7 :
 Day 8 : 
 
     [Minimum Time to complete trips](https://leetcode.com/problems/minimum-time-to-complete-trips/)
+    [Split array largest sum](https://leetcode.com/problems/split-array-largest-sum/)

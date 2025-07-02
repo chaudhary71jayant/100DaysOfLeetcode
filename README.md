@@ -36,3 +36,7 @@ Day 7 :
 
     =>[Find the original typed String](https://leetcode.com/problems/find-the-original-typed-string-i/) This was the problem of the day for 1 July 2025
     =>[Capacity to Ship packages within D days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+
+Day 8 : 
+
+    [Minimum Time to complete trips](https://leetcode.com/problems/minimum-time-to-complete-trips/)

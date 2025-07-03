@@ -41,3 +41,9 @@ Day 8 :
 
     [Minimum Time to complete trips](https://leetcode.com/problems/minimum-time-to-complete-trips/)
     [Split array largest sum](https://leetcode.com/problems/split-array-largest-sum/)
+
+
+Day 9 :
+
+    [Find the Duplicate number](https://leetcode.com/problems/find-the-duplicate-number/)
+    [Special Array I](https://leetcode.com/problems/special-array-i/)

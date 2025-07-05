@@ -47,3 +47,12 @@ Day 9 :
 
     [Find the Duplicate number](https://leetcode.com/problems/find-the-duplicate-number/)
     [Special Array I](https://leetcode.com/problems/special-array-i/)
+
+
+Day 10 : 
+
+    [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+
+Day 11 : 
+
+    [Find Lucky Integer in an array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)

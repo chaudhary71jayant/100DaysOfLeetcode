@@ -56,3 +56,9 @@ Day 10 :
 Day 11 : 
 
     [Find Lucky Integer in an array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)
+
+
+Day 12 : 
+
+    [Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/)
+    [Finding Pairs with certain sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/)

@@ -62,3 +62,7 @@ Day 12 :
 
     [Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/)
     [Finding Pairs with certain sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/)
+
+Day 13: 
+
+    [Kth Mising Positive number]{https://leetcode.com/problems/kth-missing-positive-number/}

@@ -71,3 +71,4 @@
 ## Day 14 : 
 
     [maximum POints you can obtain from cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
+    [Maximum Average SubArray -1](https://leetcode.com/problems/maximum-average-subarray-i/)

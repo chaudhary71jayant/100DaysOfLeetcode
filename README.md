@@ -78,3 +78,4 @@
 
     [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
     [Contain Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
+    [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)

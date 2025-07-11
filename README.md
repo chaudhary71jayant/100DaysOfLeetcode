@@ -72,3 +72,9 @@
 
     [maximum POints you can obtain from cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
     [Maximum Average SubArray -1](https://leetcode.com/problems/maximum-average-subarray-i/)
+
+
+## Day 15 : 
+
+    [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+    [Contain Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)

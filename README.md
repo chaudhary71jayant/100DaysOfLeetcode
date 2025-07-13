@@ -79,3 +79,12 @@
     [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
     [Contain Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
     [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+## Day 16 : 
+
+    [Max consecutive ones](https://leetcode.com/problems/max-consecutive-ones/)
+
+### Day 17 : 
+
+    [max Consecutive Ones III]{https://leetcode.com/problemset/all/}
+    [Fruit in Basket]()

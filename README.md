@@ -84,7 +84,12 @@
 
     [Max consecutive ones](https://leetcode.com/problems/max-consecutive-ones/)
 
-### Day 17 : 
+## Day 17 : 
 
     [max Consecutive Ones III]{https://leetcode.com/problemset/all/}
-    [Fruit in Basket]()
+    
+
+## Day 18 : 
+
+    [Fruits into Basket](https://leetcode.com/problems/fruit-into-baskets/)
+    [Majority Element](https://leetcode.com/problems/majority-element/)

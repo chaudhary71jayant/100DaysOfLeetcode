@@ -93,3 +93,8 @@
 
     [Fruits into Basket](https://leetcode.com/problems/fruit-into-baskets/)
     [Majority Element](https://leetcode.com/problems/majority-element/)
+
+## Day 19 : 
+
+    [number-of-substrings-containing-all-three-characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)
+    [Binary Subarrays with sum](https://leetcode.com/problems/binary-subarrays-with-sum/)

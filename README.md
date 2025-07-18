@@ -98,3 +98,7 @@
 
     [number-of-substrings-containing-all-three-characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)
     [Binary Subarrays with sum](https://leetcode.com/problems/binary-subarrays-with-sum/)
+
+## Day 20 : 
+
+    [Search a 2D matrix](https://leetcode.com/problems/search-a-2d-matrix/)

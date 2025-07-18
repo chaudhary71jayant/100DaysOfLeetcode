@@ -102,3 +102,4 @@
 ## Day 20 : 
 
     [Search a 2D matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+    [Single Number](https://leetcode.com/problems/single-number/)

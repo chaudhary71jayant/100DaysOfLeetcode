@@ -4,7 +4,7 @@ public class Main {
         System.out.println(singleNumber(nums));
     }
 
-    public static int singleNumber(int[] nums) {
+    static int singleNumber(int[] nums) {
         int result = 0;
         for (int num : nums) {
             result ^= num;

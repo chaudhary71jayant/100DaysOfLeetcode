@@ -13,7 +13,7 @@ public class Search2DMatrix {
         System.out.println(found);  // Output: true
     }
 
-    public static boolean searchMatrix(int[][] matrix, int target) {
+    static boolean searchMatrix(int[][] matrix, int target) {
         int m = matrix.length;
         int n = matrix[0].length;
 

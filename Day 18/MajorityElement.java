@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class MajorityElement {
-    Static int majorityElement(int[] nums) {
+    Static int majorityEle(int[] nums) {
         HashMap<Integer, Integer> map = new HashMap<>();
         int n = nums.length;
 
@@ -15,7 +15,7 @@ public class MajorityElement {
 
     public static void main(String[] args) {
         int[] nums = {2, 2, 1, 1, 1, 2, 2}; // Example input
-        int majority = majorityElement(nums);
+        int majority = majorityEle(nums);
         System.out.println("Majority Element: " + majority);
     }
 

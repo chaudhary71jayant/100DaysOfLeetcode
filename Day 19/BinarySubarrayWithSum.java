@@ -2,12 +2,12 @@
 
 public class BinarySubarrayWithSum {
 
-    public static int numSubarraysWithSum(int[] nums, int goal) {
+    static int numSubarraysWithSum(int[] nums, int goal) {
         return countAtMost(nums, goal) - countAtMost(nums, goal - 1);
     }
 
     // Helper: count number of subarrays with sum at most target
-    private static int countAtMost(int[] nums, int target) {
+    static int countAtMost(int[] nums, int target) {
         if (target < 0) return 0;  // negative target means 0 subarrays
 
         int start = 0, sum = 0, count = 0;

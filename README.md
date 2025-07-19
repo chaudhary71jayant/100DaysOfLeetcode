@@ -101,5 +101,10 @@
 
 ## Day 20 : 
 
-    [Search a 2D matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+    [Search a 2D matrix I](https://leetcode.com/problems/search-a-2d-matrix/)
     [Single Number](https://leetcode.com/problems/single-number/)
+
+## Day 21 : 
+
+    [Search in a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+    [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)

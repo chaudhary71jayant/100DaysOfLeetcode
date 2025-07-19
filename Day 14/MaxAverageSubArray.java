@@ -12,6 +12,7 @@ public class MaxAverageSubArray {
 
     static double  findMaxAverage(int[] nums,int k){
         int n = nums.length;
+        int windowSum = 0;
 
         int currentSum = 0;
         for(int i=0;i<k;i++){

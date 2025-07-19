@@ -3,7 +3,7 @@
 public class NumberOfSubstringsWithABC {
 
     // Function to count number of substrings containing at least one 'a', 'b', and 'c'
-    public static int numberOfSubstrings(String s) {
+    static int numberOfSubstrings(String s) {
         int[] count = new int[3]; // count[0] -> 'a', count[1] -> 'b', count[2] -> 'c'
         int start = 0, end = 0, result = 0;
 

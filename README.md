@@ -108,3 +108,12 @@
 
     [Search in a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
     [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)
+
+## Day 22 : 
+
+    [Peak elment in 2D matrix(Peak element II)]
+
+## Day 23 : 
+
+    [Subarray with exactly k Different elements](https://leetcode.com/problems/subarrays-with-k-different-integers/)
+    [Minimum size subarray sum](https://leetcode.com/problems/minimum-size-subarray-sum/)

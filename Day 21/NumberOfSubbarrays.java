@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class NumOfNiceSubarrays{
+public class NumberOfSubarrays{
     public static void main(String[] args) {
         int[] nums = {1, 1, 2, 1, 1};
         int k = 3;

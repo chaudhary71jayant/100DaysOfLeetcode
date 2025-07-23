@@ -117,3 +117,8 @@
 
     [Subarray with exactly k Different elements](https://leetcode.com/problems/subarrays-with-k-different-integers/)
     [Minimum size subarray sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+
+
+## Day 24 :
+
+    [First unique character in a string](https://leetcode.com/problems/first-unique-character-in-a-string/)
